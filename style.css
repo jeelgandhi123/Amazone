@@ -26,11 +26,11 @@
  }
 
  .border {
-     border: 2px transparent solid;
+     border: 1px transparent solid;
  }
 
  .border:hover {
-     border: 3px solid white;
+     border: 1px solid white;
  }
 
  /* this is box 2!!!!! */
@@ -258,7 +258,7 @@
  .f-three {
      background-color: #222f3d;
      color: white;
-     height: 300px;
+     height: 400px;
      display: flex;
      justify-content: space-evenly;
  }
