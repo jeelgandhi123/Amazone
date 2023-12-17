@@ -126,9 +126,10 @@
      justify-content: space-evenly;
  }
 
- .panel-two p {
+ .panel-two a,.panel-three a {
      display: inline;
      margin-left: 20px;
+     color: white;
  }
 
  .panel-two {
@@ -214,7 +215,6 @@
      background-color: white;
      border-top: 2px solid rgb(96, 92, 92);
      border-bottom: 2px solid rgb(96, 92, 92);
-     ;
      height: 130px;
      justify-content: center;
  }
@@ -244,7 +244,7 @@
 
  .f-one {
      margin-top: 20px;
-     background-color: grey;
+     background-color: rgb(34, 32, 32);
      height: 45px;
      display: flex;
      justify-content: center;
